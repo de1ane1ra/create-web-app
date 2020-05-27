@@ -1,7 +1,7 @@
 # Create Web App
  Set up a modern web app by running zero commands.
 
-Create Web App works on macOS, Windows, and Linux, and anywhere else a web browser can be executed.<br>
+Create Web App works on macOS, Windows, Linux, and anywhere else a web browser can be executed.<br>
 If something doesn’t work, please [file an issue](https://github.com/de1ane1ra/create-web-app/issues/new).<br>
 
 If you've previously installed `create-web-app` globally via `npm install -g create-web-app`, we recommend you uninstall the package using `npm uninstall -g create-web-app`, then, [uninstall npm](https://docs.npmjs.com/misc/removing-npm).
