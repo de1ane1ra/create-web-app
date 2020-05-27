@@ -30,9 +30,9 @@ Inside that directory, it will generate the initial project structure and instal
 
 ```
 my-app
-├── README.md
 ├── index.html
 ├── LICENSE
+├── README.md
 ```
 
 No configuration or complicated folder structures, only the files you need to build your app.<br>
