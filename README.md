@@ -1,5 +1,5 @@
 # Create Web App
- Set up a modern web app by running zero commands.
+ Set up a modern web app by running one command.
 
 Create Web App works on macOS, Windows, Linux, and anywhere else a web browser can be executed.<br>
 If something doesn’t work, please [file an issue](https://github.com/de1ane1ra/create-web-app/issues/new).<br>
