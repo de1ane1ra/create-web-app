@@ -25,8 +25,8 @@ To create a new app, you may choose one of the following methods:
 git clone http://github.com/de1ane1ra/create-web-app
 ```
 
-It will create a directory called `create-web-app` inside the current folder.<br>
-Inside that directory, it will generate the initial project structure and install the transitive dependencies:
+A directory with the name `create-web-app` will be created inside the current folder.<br>
+Inside that directory, will be the initial project structure and its transitive dependencies:
 
 ```
 my-app
