@@ -81,10 +81,6 @@ Alternatives to building websites with Create Web App are plentiful. Explore you
 
 I'd love to have your helping hand on `create-web-app`! Make a pull request!
 
-## Credits
-
-This project exists thanks to all the people who contribute to [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software).<br>
-
 ## Acknowledgements
 
 I am grateful to the authors of all the lightyears of collective engineering required to compose and make use of this technology, presented to humanity in good faith because they could, thank you. My contribution in the form of this repository is satirical and intends to influence noone and nothing.
