@@ -29,7 +29,7 @@ A directory with the name `create-web-app` will be created inside the current fo
 Inside that directory, will be the initial project structure and its transitive dependencies:
 
 ```
-my-app
+create-web-app
 ├── index.html
 ├── LICENSE
 ├── README.md
