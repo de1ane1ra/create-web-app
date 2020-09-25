@@ -87,4 +87,4 @@ I am grateful to the authors of all the light-years of collective engineering re
 
 ## License
 
-Create Web App is [Free Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) [licensed under MIT](https://github.com/de1ane1ra/create-web-app/blob/master/LICENSE).
+Create Web App is [licensed under MIT](https://github.com/de1ane1ra/create-web-app/blob/master/LICENSE).
